@@ -1,0 +1,27 @@
+.Equipment_info_card {
+    background: #F7F7F7;
+    border-radius: 5px;
+    padding: 20px 18.33px;
+}
+
+.Equipment_info_card span {
+    margin-bottom: 100px;
+}
+
+.Equipment_info_card_description {
+    font-family: TT Norms;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    /* 8C8C8C */
+    color: #8C8C8C;
+}
+
+.Equipment_info_card_description_info {
+    color: #000000;
+}
+
+.Equipment_info_card_description_info_id {
+    color: #18A0FB
+}

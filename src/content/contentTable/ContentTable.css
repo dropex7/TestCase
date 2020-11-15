@@ -1,0 +1,58 @@
+.Content_table {
+    background: #FFFFFF;
+    /* 939DA6 */
+    border: 1px dashed #939DA6;
+    font-family: TT Norms;
+    box-sizing: border-box;
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
+    padding: 40px 20px 60px 40px;
+}
+
+.Content_table h2 {
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    color: #000000;
+    margin: 0 0 27px 0;
+}
+
+.Content_table_names td {
+    padding: 20px;
+    font-size: 13px;
+    line-height: 15px;
+    /* 939DA6 */
+    color: #939DA6;
+}
+
+table {
+    margin: 0;
+}
+
+th {
+    color: #353535;
+    text-align: left;
+    font-size: 13px;
+    line-height: 15px;
+    vertical-align: baseline;
+    padding: 20px 20px 20px 20px;
+    border-color: #FFFFFF;
+    border-bottom: 1px dashed #E9E9E9;
+    border-style: solid;
+    border-width: 0 1px 1px 0;
+}
+
+.Content_table_body_data {
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.Content_table_body_name {
+    font-size: 12px;
+    line-height: 14px;
+}
+
+.Content_table_logo {
+    height: 16px;
+    width: 16px;
+    margin-left: 20px;
+}

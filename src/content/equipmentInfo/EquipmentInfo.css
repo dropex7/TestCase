@@ -1,0 +1,5 @@
+.Equipment_info {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 46px;
+}

@@ -1,0 +1,22 @@
+h1,
+h2,
+h3 {
+    margin: 0;
+}
+
+@font-face {
+    font-family: TT Norms;
+    /* Гарнитура шрифта */
+    src: url("../assets/font/TTNorms-Light.ttf");
+    /* Путь к файлу со шрифтом */
+}
+
+body {
+    font-family: TT Norms;
+    font-style: normal;
+}
+
+.Content {
+    width: 1000px;
+    height: 1282px;
+}
